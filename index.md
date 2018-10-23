@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Lesson 01 - HackRF Introduction
 
-You can use the [editor on GitHub](https://github.com/dtokita/hackrf_wiki/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Setting Up
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The software used to control the HackRF is called __GNU Radio Companion__. This tutorial run this on Windows.
+If you decide to use Pentoo, do __NOT__ use a virtual machine.
 
-### Markdown
+Plug in the HackRF to your host computer, you should see the LEDs on the side of the device illuminate. This
+indicates that the HackRF is getting power.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Exploring the GUI
 
-```markdown
-Syntax highlighted code block
+When opening the GNU Radio Companion for the first time, you should get something that looks like this:
 
-# Header 1
-## Header 2
-### Header 3
+![alt text](https://github.com/dtokita/hackrf_wiki/blob/master/pics/PIC1.PNG "GUI for GNU Radio Companion")
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dtokita/hackrf_wiki/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
