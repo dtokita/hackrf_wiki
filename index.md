@@ -12,7 +12,7 @@ indicates that the HackRF is getting power.
 
 When opening the GNU Radio Companion for the first time, you should get something that looks like this:
 
-![alt text](hackrf_wiki/pics/PIC1.PNG "GUI for GNU Radio Companion")
+![](https://github.com/dtokita/hackrf_wiki/blob/master/pics/PIC1.PNG)
 
 ## Starting Off
 
